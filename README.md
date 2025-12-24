@@ -9,7 +9,7 @@
 * **Backtesting de Precisão:** Realiza uma simulação histórica para calcular a taxa de acerto (%) da IA antes de exibir o alvo.
 * **Gestão de Carteira:** Sistema de "Favoritos" persistente em base de dados SQLite.
 * **Gráficos Dinâmicos:** Visualização do histórico de preços vs. projeção futura com cone de incerteza.
-* **Sistema de Licenciamento:** Controlo de acesso por login com contador de dias de licença restantes.
+* **Sistema de Licenciamento:** Controle de acesso por login com contador de dias de licença restantes.
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -23,7 +23,7 @@
 
 ## 📋 Pré-requisitos
 
-Para rodar este projeto, instalas as dependências necessárias:
+Para rodar este projeto, deve-se instalar as dependências necessárias:
 
 ```bash
 pip install yfinance pandas numpy scikit-learn matplotlib ta
